@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type="bus">
+        <details>
+            <year_of_production>2010</year_of_production>
+            <cost_of_travel unit="zl">2</cost_of_travel>
+            <price unit="zł">160000</price>
+            <avarage_length_of_travel unit="minutes">15</avarage_length_of_travel>
+        </details>
+    </transport>
+    <transport type="car" mark="fiat" model="500">
+        <details>
+            <year_of_production>2014</year_of_production>
+            <cost_of_travel unit="zl">4</cost_of_travel>
+            <price unit="zł">25000</price>
+            <avarage_length_of_travel unit="minutes">5</avarage_length_of_travel>
+        </details>
+    </transport>
+    <transport type="scooter" mark="motus" model="scooty 10">
+        <details>
+            <year_of_production>2021</year_of_production>
+            <cost_of_travel unit="zl">0</cost_of_travel>
+            <price unit="zł">2000</price>
+            <avarage_length_of_travel unit="minutes">10</avarage_length_of_travel>
+        </details>
+    </transport>
+
+</transports>

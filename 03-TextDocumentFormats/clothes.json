@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Stradivarius",
+        "founded": 1994,
+        "headquarters": "Barcelona,Spain",
+        "employees": 124000,
+        "products": [
+            "Casual Wear",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {   "name": "Pretty little things",
+        "founded":2012,
+        "headquarters":"London, UK",
+        "employees":20000,
+        "products": [
+            "women clothing",
+            "Accessories",
+            "makeup products"
+        ]       
+
     }
 ]

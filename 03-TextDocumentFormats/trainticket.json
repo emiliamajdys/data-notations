@@ -1,0 +1,10 @@
+{
+    "start_place":"Beijng",
+    "destination":"Shanghai",
+    "price": 53.50,
+    "class":"economy",
+    "bonuses":["chargers", "toilet"],
+    "is_bar_free": false, 
+    "is_late_possible": true
+
+}

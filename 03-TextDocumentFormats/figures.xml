@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometricFigures>
+    <figure>
+        <name>Circle</name>
+        <type>2D</type>
+        <properties>
+            <property>Radius</property>
+            <property>Diameter</property>
+        </properties>
+        <formulas>
+            <area>π * radius^2</area>
+            <perimeter>2 * π * radius</perimeter>
+        </formulas>
+    </figure>
+    <figure>
+        <name>Square</name>
+        <type>2D</type>
+        <properties>
+            <property>Side Length</property>
+        </properties>
+        <formulas>
+            <area>side^2</area>
+            <perimeter>4 * side</perimeter>
+        </formulas>
+    </figure>
+    <figure>
+        <name>cube</name>
+        <type>3D</type>
+        <properties>
+            <property>Side length</property>
+        </properties>
+        <formulas>
+            <volume>side*side*side</volume>
+            <wholearea>side*side*6</wholearea>
+        </formulas>
+    </figure>
+    <figure>
+        <name>cuboid</name>
+        <type>3D</type>
+        <properties>
+            <property>Side length 1 </property>
+            <property>Side length 2 </property>
+            <property>Side length 3 </property>
+        </properties>
+        <formulas>
+            <volume>side1*side2*side3</volume>
+            <wholearea>side1*side2*2 + side1*side3*2 + side2*side3*2</wholearea>
+        </formulas>
+    </figure>
+     <figure>
+        <name>square pyramid</name>
+        <type>3D</type>
+        <properties>
+            <property>pyramid height</property>
+            <property>square side length</property>
+        </properties>
+        <formulas>
+            <volume>(height*side*side)/3</volume>
+            <squarearea>side*side</squarearea>
+        </formulas>
+    </figure>
+
+</geometricFigures>
