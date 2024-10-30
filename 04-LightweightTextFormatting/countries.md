@@ -1,6 +1,6 @@
 # Countries
 |**Country**|**Capital**|**Currency**|**Currency Symbol**|**Population**|
-|----------|-------|-------|-------|-----|
+|------------|-------|-------|-------|----------|
 |United States|Washington D.C.|US Dollar|USD|331002651|  
 |Japan|Tokyo|Yen|JPY|126476461|  
 |Germany|Berlin|Euro|EUR|83783942|  
